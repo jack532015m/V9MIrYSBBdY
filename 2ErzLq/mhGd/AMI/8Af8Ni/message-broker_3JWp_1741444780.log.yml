@@ -3,7 +3,6 @@ sudo: false
 addons:
   apt:
     packages:
-      - tcl8.5
 cache:
   directories:
     - $HOME/.ccache
