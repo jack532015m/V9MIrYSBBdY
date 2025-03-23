@@ -175,7 +175,6 @@
   ([Issue #253](https://github.com/cycloidio/terracognita/issues/253))
 - HCL provider generation now users the Defaults instead of setting empty values
   ([Issue #268](https://github.com/cycloidio/terracognita/issues/268))
-
 ## [0.7.4] _2021-09-23_
 
 ### Changed
