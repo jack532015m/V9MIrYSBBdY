@@ -35,7 +35,6 @@ groups:
       - performance/cpu
   -
     name: BUGFIXES
-    labels:
       - type/bug
   -
     name: API
