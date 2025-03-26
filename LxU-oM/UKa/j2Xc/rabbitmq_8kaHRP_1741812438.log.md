@@ -1,6 +1,5 @@
 # Spring Boot Examples
 
-this is ablout learn Spring Boot Examples
 
 Demo website：http://www.ityouknow.com/
 
