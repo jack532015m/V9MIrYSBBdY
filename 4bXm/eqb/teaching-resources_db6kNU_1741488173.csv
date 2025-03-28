@@ -28,7 +28,6 @@ ID,Evaluation,OS,License,Host/IDE,Language/Library,Syntax,Main uses,Official sit
 181,partial,"Windows, Mac OS, Linux",FOSS,NodeBox for OpenGL,Python,Python,"2D graphics, generative art, dataviz",www.cityinabottle.org/nodebox/,
 190,partial,"Windows, Mac OS, Linux",FOSS,OpenFrameworks,C++,C,"2D and 3D graphics, interactive art, dataviz",openframeworks.cc/,
 200,partial,"Mac OS (aplicativo ou módulo Python), Windows e Linux (módulo Python)",FOSS,PlotDevice,Python,Python,"2D graphics, generative art, dataviz",plotdevice.io,http://plotdevice.io/extras/plotdevice-docs.zip
-210,partial,"Windows, Mac OS, Linux",FOSS,QGIS,Python,Python,"Plug-in tools, GIS, dataviz",docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/intro.html,qgistutorials.com/en/docs/getting_started_with_pyqgis.html
 81,partial,Windows,"Proprietary, educational use at no cost",Revit,Revit Macros,"VB.NET, C#","Plug-in tools, complex 3D geometry",,https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Customize/files/GUID-4DFDA8CD-B0FD-492E-8EDE-A28C29B1E316-htm.html
 220,partial,online,-,"repl.it
 (Browser based)","Python
