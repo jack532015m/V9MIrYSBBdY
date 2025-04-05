@@ -42,7 +42,6 @@ module.exports = {
   devices: {
     simulator: {
       type: 'ios.simulator',
-      device: {
         type: 'iPhone 14',
       },
     },
