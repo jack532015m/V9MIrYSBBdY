@@ -1,6 +1,5 @@
 import re
 from pdftotext import get_text
-
 def get_qno_text(string):
 
 	iter = re.finditer(r"Q\d", string)
